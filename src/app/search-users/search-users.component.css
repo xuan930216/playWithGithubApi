@@ -1,0 +1,12 @@
+.searchBox .form-control{
+    margin:2px;
+}
+.searchBox .btn{
+    background-color: blueviolet;
+    border-color: blueviolet;
+    margin:5px;
+}
+
+.searchBox{
+    justify-content: center;
+}
